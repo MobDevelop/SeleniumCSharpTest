@@ -1,0 +1,12 @@
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/bin/Debug/ToolsQA.exe
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/bin/Debug/ToolsQA.pdb
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/obj/x86/Debug/ToolsQA.csprojAssemblyReference.cache
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/obj/x86/Debug/ToolsQA.csproj.CoreCompileInputs.cache
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/obj/x86/Debug/ToolsQA.exe
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/obj/x86/Debug/ToolsQA.pdb
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/bin/Debug/WebDriver.dll
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/bin/Debug/WebDriver.xml
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/obj/x86/Debug/ToolsQA.csproj.CopyComplete
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/bin/Debug/nunit.framework.dll
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/bin/Debug/nunit.framework.pdb
+/Volumes/DATA/Work/VisualWorkspace/ToolsQA/ToolsQA/bin/Debug/nunit.framework.xml
