@@ -14,10 +14,9 @@ namespace ToolsQA.SeleniumBasics
 {
     public class CheckBoxAndRadioButton
     {
-        [Test]
+        //[Test]
         public void Test()
         {
-            Console.WriteLine("CheckBoxAndRadioButton");
             try
             {
                 IWebDriver driver = new FirefoxDriver();
@@ -36,6 +35,23 @@ namespace ToolsQA.SeleniumBasics
                 {
                     rdBtn_Gender.ElementAt(0).Click();
                 }
+
+                IWebElement rdBtn_Exp = driver.FindElement(By.Id("exp-2"));
+                rdBtn_Exp.Click();
+
+                IList<IWebElement> chkBx_Profession = driver.FindElements(By.Name("profession"));
+                for (int i = 0; i < chkBx_Profession.Count; i++)
+                {
+                    if(chkBx_Profession.ElementAt(i).GetAttribute("value").Equals("Automation Tester"))
+                    {
+                        chkBx_Profession.ElementAt(i).Click();
+                    }
+                }
+
+                IWebElement chkBx_IDE = driver.FindElement(By.CssSelector("input[value='Selenium IDE']"));
+                chkBx_IDE.Click();
+
+                driver.Quit();
             } catch(Exception e)
             {
                 Console.WriteLine(e.ToString());

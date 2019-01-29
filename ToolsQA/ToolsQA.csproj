@@ -47,6 +47,8 @@
     <Compile Include="Selenium Basics\Click.cs" />
     <Compile Include="Selenium Basics\LinkTest.cs" />
     <Compile Include="Selenium Basics\CheckBoxAndRadioButton.cs" />
+    <Compile Include="Selenium Basics\WebTable.cs" />
+    <Compile Include="Selenium Basics\Wait.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
